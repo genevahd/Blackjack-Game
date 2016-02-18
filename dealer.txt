@@ -1,0 +1,7 @@
+10 mgm 675
+20 bellagio 738
+30 venetian 581
+40 luxor 690
+50 mirage 617
+60 paris 553
+70 aria 549
